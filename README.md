@@ -8,6 +8,6 @@ My first repository.
 It beautifully shows how potential grows when someone finally believes in you.
 
 ### Movie Poster
-![Good Will Hunting]![images](https://github.com/user-attachments/assets/cd3b5a26-c2ec-46ef-b555-b28fbb175481)# app-dev
+![images](https://github.com/user-attachments/assets/cd3b5a26-c2ec-46ef-b555-b28fbb175481)# 
 
 
